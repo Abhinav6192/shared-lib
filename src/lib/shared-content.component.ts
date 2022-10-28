@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-shared-content',
   template: `
     <p>
-      shared-content works!
+      shared-content works! making changes from profile project.
     </p>
   `,
   styles: [
