@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
     <p>
       shared-content works! making changes from profile project.
     </p>
+    <p>
+      checking if making changes here is visible in local or not without commiting it.
+    </p>
   `,
   styles: [
   ]
